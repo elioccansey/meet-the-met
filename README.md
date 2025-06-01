@@ -30,7 +30,7 @@ The codebase follows a vertical slice architecture under a `features/` directory
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/meet-the-met.git
+git clone https://github.com/elioccansey/meet-the-met.git
 cd meet-the-met
 ```
 
