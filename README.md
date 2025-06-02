@@ -2,6 +2,24 @@
 
 **Meet the Met** is a responsive web application that connects to the [Metropolitan Museum of Art’s public API](https://metmuseum.github.io/) to explore objects collections. 
 
+## Deployment
+
+The live application is deployed on **AWS** using **S3** and **CloudFront**:
+**Live Demo:** [https://d2fxo4hrsedt7g.cloudfront.net/](https://d2fxo4hrsedt7g.cloudfront.net/)
+
+## Screenshots
+
+Here are a few screenshots of the application in action:
+
+### Home / Gallery View
+
+![Gallery View](./screenshots/gallery.png)
+
+### Object Details
+
+![Object Details](./screenshots/details.png)
+
+
 ## Features
 
 - Paginated display of artworks  
